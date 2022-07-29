@@ -8,6 +8,9 @@ const port=process.env.PORT || 4000
 app.use(cors());
 
 app.get('/',(req,res)=>{
+  res.send("Nice to Meet You!");
+})
+app.get('/myservices',(req,res)=>{
   res.send(data);
 })
 
