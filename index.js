@@ -8,11 +8,9 @@ const port=process.env.PORT || 4000
 app.use(cors());
 
 app.get('/',(req,res)=>{
-  res.send("Hello");
-})
-app.get('/services',(req,res)=>{
   res.send(data);
 })
+
 app.listen(port,()=>{
    console.log(`Example app listening on port ${port}`)
 })
