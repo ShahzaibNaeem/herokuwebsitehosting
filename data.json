@@ -3,36 +3,36 @@
     "id": 1,
     "title": "React JS",
     "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
+    "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code ."
     },
     {
     "id": 2,
     "title": "Node JS",
     "image": "https://images.pexels.com/photos/1181244/pexels-photo-1181244.jpeg",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
+    "description": "Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications. Node.js applications are written in JavaScript"
     },
     {
     "id": 3,
     "title": "Express JS",
     "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
+    "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It is an open source framework ."
     },
     {
     "id": 4,
     "title": "Mongo DB",
     "image": "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
+    "description": "MongoDB is an open-source document-oriented database. MongoDB has been adopted as backend software by a number of major websites and services including EA, Adobe, eBay e.t.c"
     },
     {
     "id": 5,
     "title": "Adobe Photoshop",
     "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quae et aperiam ipsa culpa a sit dolorum beatae"
+    "description": "Adobe Photoshop is a most popular photo editing and raster graphic design software which allows users to create, edit, and manipulate various graphics as well as digital art. "
     },
     {
     "id": 6,
-    "title": "Adobe Illustrator",
+    "title": "Adobe Premiere Pro",
     "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "It's a monthly event where we will give a project and you have to submit your project. Codefest will be mostly related to frontend projects and occasionally fullstack project."
+    "description": "Adobe Premiere Pro is a software application for video editing from Adobe Systems. Premiere Pro is used for editing videos, commercials and other film, television, and online video"
     }
     ]
