@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "React JS",
-    "image": "https://images.pexels.com/photos/1181467/pexels-photo-1181467.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code ."
     },
     {
@@ -21,18 +21,18 @@
     "id": 4,
     "title": "Mongo DB",
     "image": "https://images.pexels.com/photos/905163/pexels-photo-905163.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "description": "MongoDB is an open-source document-oriented database. MongoDB has been adopted as backend software by a number of major websites and services including EA, Adobe, eBay e.t.c"
+    "description": "MongoDB is an open-source document-oriented database. MongoDB has been adopted as backend software by a number of major websites including EA, Adobe, eBay e.t.c"
     },
     {
     "id": 5,
     "title": "Adobe Photoshop",
-    "image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://images.pexels.com/photos/6155010/pexels-photo-6155010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "Adobe Photoshop is a most popular photo editing and raster graphic design software which allows users to create, edit, and manipulate various graphics as well as digital art. "
     },
     {
     "id": 6,
     "title": "Adobe Premiere Pro",
-    "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://images.pexels.com/photos/5054208/pexels-photo-5054208.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "Adobe Premiere Pro is a software application for video editing from Adobe Systems. Premiere Pro is used for editing videos, commercials and other film, television, and online video"
     }
     ]
