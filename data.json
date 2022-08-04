@@ -2,7 +2,7 @@
     {
     "id": 1,
     "title": "React JS",
-    "image": "https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "image": "https://images.pexels.com/photos/11035471/pexels-photo-11035471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
     "description": "React is a declarative, efficient, and flexible JavaScript library for building user interfaces created by facebook. It lets you compose complex UIs from small and isolated pieces of code .",
     "link":"https://reactjs.org/"
     },
